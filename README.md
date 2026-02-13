@@ -19,7 +19,7 @@ Check out the app directly here: [Live Demo](https://your-live-link.com)
 - Dark/Light theme toggle
 - Notes stored in **local storage** for persistence
 
----
+
 
 ## 🛠 Technologies Used
 
@@ -27,7 +27,7 @@ Check out the app directly here: [Live Demo](https://your-live-link.com)
 - CSS3
 - JavaScript (Vanilla JS)
 
----
+
 
 ## 🚀 How to Use
 
@@ -37,7 +37,7 @@ Check out the app directly here: [Live Demo](https://your-live-link.com)
 4. Use ✏️ to edit and 🗑️ to delete
 5. Toggle light/dark mode with 🌓 button
 
----
+
 
 ## 📜 License
 
@@ -45,5 +45,4 @@ MIT License © 2026 Ikram
 
 See the [LICENSE](LICENSE) file for more information.
 
----
 
