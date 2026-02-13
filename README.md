@@ -1,34 +1,34 @@
-# 📝 Quick Notes App
+📝 Quick Notes App
 
-**Quick Notes** is a simple and practical web app for taking notes.  
+Quick Notes is a simple and practical web app for taking notes.
 Easily create, edit, and delete notes with a clean and responsive interface.
----
 
-## 🔹 Project Description
+🔹 Project Description
 
-A lightweight note-taking app for daily notes, with dark/light mode toggle.  
+A lightweight note-taking app for daily notes, with dark/light mode toggle.
 Notes are stored locally on the user's browser for persistence.
----
 
-## ⚡ Features
+⚡ Features
 
-- Create new notes with title and content  
-- Edit existing notes  
-- Delete notes with confirmation  
-- Toggle between **light/dark mode**  
-- Notes saved using **Local Storage**
----
+Create new notes with title and content
 
-## 🛠 Technologies Used
+Edit existing notes
 
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla JS)
+Delete notes with confirmation
 
----
+Toggle between light/dark mode
 
-## 🏗 Project Structure
+Notes saved using Local Storage
 
+🛠 Technologies Used
+
+HTML5
+
+CSS3
+
+JavaScript (Vanilla JS)
+
+🏗 Project Structure
 quick-notes/
 ├─ index.html
 ├─ style.css
@@ -36,53 +36,52 @@ quick-notes/
 ├─ README.md
 ├─ LICENSE
 └─ (images or additional assets)
----
 
-## 💾 Data Storage
+💾 Data Storage
 
-- Notes are stored in the browser's **Local Storage**  
-- Ensures notes persist after refreshing or closing the browser
+Notes are stored in the browser's Local Storage
 
----
+Ensures notes persist after refreshing or closing the browser
 
-## 🚀 How to Run the Project
-
-### 1️⃣ Clone the Repository
+🚀 How to Run the Project
+1️⃣ Clone the Repository
 git clone https://github.com/ikram-ronaba/quick-notes-app.git
-
 cd quick-notes-app
 
-### 2️⃣ Install Dependencies
+2️⃣ Install Dependencies
 
-### 3️⃣ Run the App
-- Open `index.html` in any modern browser (Chrome, Edge, Firefox)
----
+No installation required; this is a vanilla JS project.
 
-## 🧰 Usage
+3️⃣ Run the App
 
-1. Click **➕ New Note** to create a new note  
-2. Use **✏️** to edit a note  
-3. Click **🗑️** to delete a note  
-4. Use the **🌓** button to toggle light/dark mode
----
+Open index.html in any modern browser (Chrome, Edge, Firefox)
 
-## 🤝 Contributing
+🧰 Usage
 
-- Contributions are welcome to improve the app  
-- Open **Issues** or submit **Pull Requests**
----
+Click ➕ New Note to create a new note
 
-## 📜 License
+Use ✏️ to edit a note
 
-MIT License © 2026 Ikram  
-See the [LICENSE](LICENSE) file for details.
----
+Click 🗑️ to delete a note
 
-## 💌 Support
+Use the 🌓 button to toggle light/dark mode
 
-For questions or issues, contact via GitHub **Issues** in this repository.
----
+🤝 Contributing
 
-## 🌐 Live Demo
+Contributions are welcome to improve the app
 
-Try the app live here: [Quick Notes Live](https://ikram-ronaba.github.io/quick-notes-app/)
+Open Issues or submit Pull Requests on GitHub
+
+📜 License
+
+MIT License © 2026 Ikram
+See the LICENSE
+ file for details.
+
+💌 Support
+
+For questions or issues, contact via GitHub Issues in this repository.
+
+🌐 Live Demo
+
+Try the app live here: Quick Notes Live
