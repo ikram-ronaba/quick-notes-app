@@ -1,87 +1,144 @@
-📝 Quick Notes App
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quick Notes App - README</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+        }
+        h1 {
+            text-align: center;
+        }
+        pre {
+            background: #eee;
+            padding: 10px;
+            overflow-x: auto;
+        }
+        a {
+            color: #2980b9;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        hr {
+            border: 0;
+            height: 1px;
+            background: #ccc;
+            margin: 30px 0;
+        }
+    </style>
+</head>
+<body>
 
-Quick Notes is a simple and practical web app for taking notes.
-Easily create, edit, and delete notes with a clean and responsive interface.
+    <h1>📝 Quick Notes App</h1>
 
-🔹 Project Description
+    <p><strong>Quick Notes</strong> is a simple and practical web app for taking notes.<br>
+    Easily create, edit, and delete notes with a clean and responsive interface.</p>
 
-A lightweight note-taking app for daily notes, with dark/light mode toggle.
-Notes are stored locally on the user's browser for persistence.
+    <hr>
 
-⚡ Features
+    <h2>🔹 Project Description</h2>
+    <p>A lightweight note-taking app for daily notes, with <strong>dark/light mode toggle</strong>.<br>
+    Notes are stored locally on the user's browser for persistence.</p>
 
-Create new notes with title and content
+    <hr>
 
-Edit existing notes
+    <h2>⚡ Features</h2>
+    <ul>
+        <li>Create new notes with <strong>title and content</strong></li>
+        <li>Edit existing notes</li>
+        <li>Delete notes with <strong>confirmation</strong></li>
+        <li>Toggle between <strong>light/dark mode</strong></li>
+        <li>Notes saved using <strong>Local Storage</strong></li>
+    </ul>
 
-Delete notes with confirmation
+    <hr>
 
-Toggle between light/dark mode
+    <h2>🛠 Technologies Used</h2>
+    <ul>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>JavaScript (Vanilla JS)</li>
+    </ul>
 
-Notes saved using Local Storage
+    <hr>
 
-🛠 Technologies Used
-
-HTML5
-
-CSS3
-
-JavaScript (Vanilla JS)
-
-🏗 Project Structure
+    <h2>🏗 Project Structure</h2>
+    <pre>
 quick-notes/
 ├─ index.html
 ├─ style.css
 ├─ app.js
-├─ README.md
+├─ README.html
 ├─ LICENSE
 └─ (images or additional assets)
+    </pre>
 
-💾 Data Storage
+    <hr>
 
-Notes are stored in the browser's Local Storage
+    <h2>💾 Data Storage</h2>
+    <p>Notes are stored in the browser's <strong>Local Storage</strong>.<br>
+    Ensures notes persist after refreshing or closing the browser.</p>
 
-Ensures notes persist after refreshing or closing the browser
+    <hr>
 
-🚀 How to Run the Project
-1️⃣ Clone the Repository
+    <h2>🚀 How to Run the Project</h2>
+
+    <h3>1️⃣ Clone the Repository</h3>
+    <pre>
 git clone https://github.com/ikram-ronaba/quick-notes-app.git
 cd quick-notes-app
+    </pre>
 
-2️⃣ Install Dependencies
+    <h3>2️⃣ Install Dependencies</h3>
+    <p>No installation required; this is a vanilla JS project.</p>
 
-No installation required; this is a vanilla JS project.
+    <h3>3️⃣ Run the App</h3>
+    <p>Open <code>index.html</code> in any modern browser (Chrome, Edge, Firefox).</p>
 
-3️⃣ Run the App
+    <hr>
 
-Open index.html in any modern browser (Chrome, Edge, Firefox)
+    <h2>🧰 Usage</h2>
+    <ol>
+        <li>Click <strong>➕ New Note</strong> to create a new note</li>
+        <li>Use <strong>✏️</strong> to edit a note</li>
+        <li>Click <strong>🗑️</strong> to delete a note</li>
+        <li>Use the <strong>🌓</strong> button to toggle light/dark mode</li>
+    </ol>
 
-🧰 Usage
+    <hr>
 
-Click ➕ New Note to create a new note
+    <h2>🤝 Contributing</h2>
+    <p>Contributions are welcome to improve the app.<br>
+    Open <strong>Issues</strong> or submit <strong>Pull Requests</strong> on GitHub.</p>
 
-Use ✏️ to edit a note
+    <hr>
 
-Click 🗑️ to delete a note
+    <h2>📜 License</h2>
+    <p>MIT License © 2026 Ikram<br>
+    See the <a href="LICENSE">LICENSE</a> file for details.</p>
 
-Use the 🌓 button to toggle light/dark mode
+    <hr>
 
-🤝 Contributing
+    <h2>💌 Support</h2>
+    <p>For questions or issues, contact via <strong>GitHub Issues</strong> in this repository.</p>
 
-Contributions are welcome to improve the app
+    <hr>
 
-Open Issues or submit Pull Requests on GitHub
+    <h2>🌐 Live Demo</h2>
+    <p>Try the app live here: <a href="https://ikram-ronaba.github.io/quick-notes-app/" target="_blank">Quick Notes Live</a></p>
 
-📜 License
-
-MIT License © 2026 Ikram
-See the LICENSE
- file for details.
-
-💌 Support
-
-For questions or issues, contact via GitHub Issues in this repository.
-
-🌐 Live Demo
-
-Try the app live here: Quick Notes Live
+</body>
+</html>
