@@ -3,13 +3,13 @@
 A clean and minimal **note-taking web app** built with **HTML, CSS, and JavaScript**.  
 Easily create, edit, and delete notes with a sleek and responsive interface.  
 
----
+
 
 ## 🔗 Live Demo
 
 Check out the app directly here: [Live Demo](https://your-live-link.com)
 
----
+
 
 ## ⚡ Features
 
