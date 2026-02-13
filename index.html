@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NotePad</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+
+  <header>
+    <h1>NotePad</h1>
+    <div class="header-actions">
+      <button class="new-note-btn" onclick="openNoteModal()">➕ New Note</button>
+      <button id="modeSwitchBtn" class="theme-btn">🌓</button>
+    </div>
+  </header>
+
+  <section id="noteBoard" class="note-grid">
+
+  </section>
+
+  <dialog id="noteModal">
+    <div class="modal-inner">
+      <div class="modal-header">
+        <h2 id="modalTitle">Create Note</h2>
+        <button class="modal-close" onclick="hideNoteDialog()">✖</button>
+      </div>
+
+      <form id="noteEntryForm">
+        <div class="field-group">
+          <label for="titleInput">Title</label>
+          <input type="text" id="titleInput" placeholder="Your note title..." required>
+        </div>
+        
+        <div class="field-group">
+          <label for="contentInput">Content</label>
+          <textarea id="contentInput" placeholder="Type your note..." required></textarea>
+        </div>
+
+        <div class="modal-actions">
+          <button type="button" class="cancel-btn" onclick="hideNoteDialog()">Cancel</button>
+          <button type="submit" class="save-btn">Save</button>
+        </div>
+      </form>
+    </div>
+  </dialog>
+</body>
+</html>
