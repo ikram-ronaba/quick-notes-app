@@ -2,7 +2,6 @@
 
 A simple, lightweight, and elegant **note-taking web app** to quickly jot down your ideas, tasks, and thoughts. Fully functional with **local storage** support, dark mode, and a clean, modern interface.
 
----
 
 ## 🌟 Features
 
@@ -12,14 +11,12 @@ A simple, lightweight, and elegant **note-taking web app** to quickly jot down y
 - **Responsive Design** – Works seamlessly on desktop and mobile devices.
 - **User-Friendly Interface** – Clean, modern UI with smooth interactions and hover effects.
 
----
 
-## 💻 Demo
+## 🔗 Live Demo
 
-![Quick Notes Screenshot](https://via.placeholder.com/600x400?text=Quick+Notes+App+Screenshot)  
-*You can replace this image with your actual screenshot.*
+Check out the app directly here: [Live Demo](https://your-live-link.com)
 
----
+
 
 ## 🛠 Installation
 
@@ -43,7 +40,7 @@ git clone https://github.com/your-username/quick-notes.git
 
 6. Notes are automatically saved and persist in your browser.
 
----
+
 
 ## 🎨 Technologies Used
 
@@ -62,7 +59,7 @@ QuickNotes/
 This project is licensed under the **MIT License**.  
 See the [LICENSE](LICENSE) file for details.
 
----
+
 
 ## 💡 Future Enhancements
 
@@ -71,7 +68,7 @@ See the [LICENSE](LICENSE) file for details.
 - Export/Import notes (JSON or PDF)
 - Sync notes across devices with cloud storage
 
----
+
 
 ## 🤝 Contributing
 
