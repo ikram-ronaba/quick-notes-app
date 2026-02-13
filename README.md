@@ -1,80 +1,49 @@
-# Quick Notes 📝
+# 📝 Quick Notes App
 
-A simple, lightweight, and elegant **note-taking web app** to quickly jot down your ideas, tasks, and thoughts. Fully functional with **local storage** support, dark mode, and a clean, modern interface.
+A clean and minimal **note-taking web app** built with **HTML, CSS, and JavaScript**.  
+Easily create, edit, and delete notes with a sleek and responsive interface.  
 
+---
 
-## 🌟 Features
-
-- **Add, Edit & Delete Notes** – Quickly create new notes, update existing ones, or remove notes you no longer need.
-- **Persistent Storage** – Notes are saved in your browser's **local storage**, so they remain after refresh or reopening.
-- **Dark Mode / Light Mode** – Switch easily between light and dark themes for comfortable viewing.
-- **Responsive Design** – Works seamlessly on desktop and mobile devices.
-- **User-Friendly Interface** – Clean, modern UI with smooth interactions and hover effects.
-
-  
 ## 🔗 Live Demo
 
 Check out the app directly here: [Live Demo](https://your-live-link.com)
 
+---
 
-## 🛠 Installation
+## ⚡ Features
 
-1. **Clone the repository**
+- Create new notes with a title and content
+- Edit existing notes
+- Delete notes with confirmation
+- Dark/Light theme toggle
+- Notes stored in **local storage** for persistence
 
-```bash
-git clone https://github.com/your-username/quick-notes.git
+---
 
+## 🛠 Technologies Used
 
-⚡ Usage
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
 
-Open index.html in your browser
-No server required.
+---
 
-Click ➕ New Note to create a note.
+## 🚀 How to Use
 
-Enter a Title and Content, then click Save.
+1. Clone or download the repository
+2. Open `index.html` in your browser
+3. Click **➕ New Note** to create a note
+4. Use ✏️ to edit and 🗑️ to delete
+5. Toggle light/dark mode with 🌓 button
 
-Hover over a note to Edit ✏️ or Delete 🗑️.
+---
 
-Switch themes with the 🌓 button.
+## 📜 License
 
-Notes are saved automatically in your browser.
+MIT License © 2026 Ikram  
 
+See the [LICENSE](LICENSE) file for more information.
 
-🎨 Technologies
+---
 
-HTML5 – Structure
-
-CSS3 – Styling, responsive & dark mode
-
-JavaScript – Logic & local storage
-
-Project Structure:
-
-QuickNotes/
-├─ index.html
-├─ style.css
-├─ app.js
-├─ LICENSE
-└─ icons/
-    └─ favicon.png
-
-
-📖 License
-
-MIT License – see LICENSE
-
-💡 Future Enhancements
-
-Search notes
-
-Tags & filtering
-
-Export/Import
-
-Cloud sync
-
-
-🤝 Contributing
-
-Open to issues, feature requests, or pull requests.
