@@ -10,6 +10,10 @@ Easily create, edit, and delete notes with a sleek and responsive interface.
 🔗 [Open Quick Notes App](https://ikram-ronaba.github.io/quick-notes-app/)
 
 
+## 📸 Preview
+
+![Quick Notes Preview](screenshot.png)
+
 
 
 ## ⚡ Features
