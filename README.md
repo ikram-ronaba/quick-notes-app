@@ -12,9 +12,7 @@ Easily create, edit, and delete notes with a sleek and responsive interface.
 
 ## 📸 Preview
 
-## 📸 Preview
-
-![Quick Notes Preview](screenshot.png)
+![Quick Notes Preview](screenshot.png.jpg)
 
 
 
