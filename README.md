@@ -5,9 +5,10 @@ Easily create, edit, and delete notes with a sleek and responsive interface.
 
 
 
-## 🔗 Live Demo
+## 🌐 Live Demo
 
-Check out the app directly here: [Live Demo](https://your-live-link.com)
+🔗 [Open Quick Notes App](https://ikram-ronaba.github.io/quick-notes-app/)
+
 
 
 
