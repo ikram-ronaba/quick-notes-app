@@ -12,7 +12,10 @@ Easily create, edit, and delete notes with a sleek and responsive interface.
 
 ## 📸 Preview
 
-![Quick Notes Preview]([screenshot.png](https://github.com/ikram-ronaba/quick-notes-app/blob/main/screenshot.png.jpg))
+## 📸 Preview
+
+![Quick Notes Preview](screenshot.png)
+
 
 
 
